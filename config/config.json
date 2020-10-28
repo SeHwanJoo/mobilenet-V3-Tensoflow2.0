@@ -1,0 +1,13 @@
+{
+    "model": "small",
+    "height": 224,
+    "width": 224,
+    "class_number": 100,
+    "learning_rate": 0.1,
+    "batch": 128,
+    "epochs": 350,
+    "train_dir": "dataset/train",
+    "eval_dir": "dataset/valid",
+    "save_dir": "save",
+    "weights": ""
+}
